@@ -1,8 +1,9 @@
-### Hi 🙏
+### Hello! 🙏
 
 #### I’m a Front-End Developer working in Sao Paulo, Brazil.
-- 👀 I’m interested in coding for life
-- 🌱 I’m currently learning Vue.js and GraphQL
+- 🏢 I'm working with _organic food local sellers_ and _Sala_ agency
+- ⚙️ I use daily: `vuejs`, `tailwind`, `html`, `css`
+- 🌱 Learning all about **Javascript**, **Vue.js**, **tailwind** and **GraphQL**
 - 💞️ I’m looking to collaborate on green or elevated projects 
 - 📫 Reach me: alexandre.saito@outlook.com
 
