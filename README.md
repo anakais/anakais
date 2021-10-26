@@ -1,6 +1,6 @@
-### Hello! 🙏
+### Hello! I'm Ale Nakai 🙏
 
-#### My name is Alexandre Nakai. I’m a Front-End Developer working in Sao Paulo, Brazil.
+#### I’m a Front-End Developer working in Sao Paulo, Brazil.
 - 🏢 I'm working with _organic food local sellers_ and _Sala_ agency
 - ⚙️ I use daily: `vuejs`, `tailwind`, `html`, `css`
 - 🌱 Learning all about **Javascript**, **Vue.js**, **tailwind** and **GraphQL**
