@@ -7,6 +7,8 @@
 - 💞️ I’m looking to collaborate on green or elevated projects 
 - 📫 Reach me: alexandre.saito@outlook.com
 
+![Github Stats Image](https://github-readme-stats.vercel.app/api?username=anakais&show_icons=true)
+
 <!---
 anakais/anakais is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
