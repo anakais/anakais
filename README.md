@@ -9,8 +9,8 @@
 
 <div align="center">
   <a href="https://github.com/anakais">
-  <img height="180em" alt="Github Stats Image" src="https://github-readme-stats.vercel.app/api?username=anakais&show_icons=true&theme=vue-dark"/>
-  <img height="180em" alt="Github Stats Top Langs Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakais&layout=compact&theme=vue-dark"/>
+  <img height="180em" alt="Github Stats Image" src="https://github-readme-stats.vercel.app/api?username=anakais&show_icons=true&theme=vue-dark&count_private=true"/>
+  <img height="180em" alt="Github Stats Top Langs Image" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anakais&layout=compact&theme=vue-dark&count_private=true"/>
   </a>
 </div>
 
