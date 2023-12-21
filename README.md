@@ -1,8 +1,8 @@
 ### Hello! I'm Ale Nakai 🙏
 
 #### I’m a Front-End Developer working in São Paulo, Brazil.
-- 🏢 I'm working with _FanBase_ startup and _organic food local sellers_
-- ⚙️ I use daily: `vuejs`, `nuxt`, `tailwind`, `html`, `css`
+- 🏢 I'm working with _Cactus Gaming_ startup and _organic food local sellers_
+- ⚙️ I use daily: `vuejs`, `nuxt`, `tailwind`, `javascript`, `html`, `css`
 - 🌱 Learning all about **Javascript**, **Vue.js**, **tailwind**, **Nuxt** and **GraphQL**
 - 💞️ I’m looking to collaborate on green or elevated projects
 - 📫 Reach me: alexandre.saito@outlook.com
