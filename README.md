@@ -1,10 +1,10 @@
-### Hello! I'm Ale Nakai 🙏
+### Hello! I'm Alex Nakai 🙏
 
-#### I’m a Front-End Developer working in Brazil.
-- 🏢 I'm working with a _gaming_ startup and _organic food local sellers_
+#### I’m a Front-End Developer working remotely.
+- 🏢 I'm working with a _gaming_ startup and a _social project_ teaching programming
 - ⚙️ I use daily: `vuejs`, `nuxt`, `tailwind`, `javascript`, `html`, `css`
 - 🌱 Learning all about **Javascript**, **Vue.js**, **tailwind**, **Nuxt** and **GraphQL**
-- 💞️ I’m looking to collaborate on green or elevated projects
+- 💞️ I’m looking to collaborate on remote, green or elevated projects
 - 📫 Reach me: alexandre.saito@outlook.com
 
 <div align="center">
