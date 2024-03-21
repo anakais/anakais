@@ -1,5 +1,9 @@
 ### Hello! I'm Alex Nakai 🙏
 
+```
+📌 The company I currently work for asked me to create a
+github account just for them, so my work is not shown here 
+```
 #### I’m a Front-End Developer working remotely.
 - 🏢 I'm working with a _gaming_ startup and a _social project_ teaching programming
 - ⚙️ I use daily: `vuejs`, `nuxt`, `tailwind`, `javascript`, `html`, `css`
@@ -7,9 +11,6 @@
 - 💞️ I’m looking to collaborate on remote, green or elevated projects
 - 📫 Reach me: alexandre.saito@outlook.com
 
-```
-📌 The company I currently work for asked me to create a github account just for them, so my work is not shown here 
-```
 
 <div align="center">
   <a href="https://github.com/anakais">
