@@ -7,6 +7,10 @@
 - 💞️ I’m looking to collaborate on remote, green or elevated projects
 - 📫 Reach me: alexandre.saito@outlook.com
 
+```
+📌 The company I currently work for asked me to create a github account just for them, so my work is not shown here 
+```
+
 <div align="center">
   <a href="https://github.com/anakais">
   <img height="180em" alt="Github Stats Image" src="https://github-readme-stats-sigma-five.vercel.app/api?username=anakais&show_icons=true&theme=vue-dark&count_private=true"/>
